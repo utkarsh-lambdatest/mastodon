@@ -12,4 +12,6 @@ postMerge:
 
 configFile: "package.json"
 
+smartRun: false
+
 version: 1.0
