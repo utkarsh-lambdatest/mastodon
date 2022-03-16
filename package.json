@@ -54,7 +54,7 @@
     ],
     "coverageDirectory": "<rootDir>/coverage",
     "moduleDirectories": [
-      "<rootDir>/node_modules",
+      "node_modules",
       "<rootDir>/app/javascript"
     ]
   },
